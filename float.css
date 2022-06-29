@@ -1,0 +1,29 @@
+.box-left {
+    float: left;
+    width: 50%;
+    background: red;
+    min-height: 200px;
+    margin: 0 auto;
+    color: white;
+    padding-top: 70px;
+}
+.box-right {
+    float: left;
+    width: 50%;
+    min-height: 200px;
+    background: green;
+    margin: 0 auto;
+    color: white;
+    padding-top: 70px;
+}
+.bottom-line {
+    float: left;
+    width: 100%;
+    text-align: center;
+    background: blue;
+    color: white;
+}
+.main-class h1 {
+    /* line-height: 183px; */
+    text-align: center;
+}
